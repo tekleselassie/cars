@@ -30,6 +30,7 @@ constructor(model, make, year, color, licensePlate, wheelCount, cylinders, miles
 
 }
 }
+//this
 class MotorBike extends Vehicle{
   constructor(model, make, year, color, licensePlate, chain, tires, cylinders, hourPower){
     super(model, make, year, color);
