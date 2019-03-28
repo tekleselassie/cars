@@ -16,7 +16,7 @@ console.log("Vehicle Color: "  + this.vehicleColor);
 
   }
 }
-
+// extendss
 class Car extends Vehicle{
 
 constructor(model, make, year, color, licensePlate, wheelCount, cylinders, miles, fuelType){
